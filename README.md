@@ -21,3 +21,16 @@ Ensure you are running this within an active virtual environment (your `requirem
 1. Activate the virtual environment:
    ```bash
    .venv\Scripts\activate
+
+2. Execute the script: python analyze_electricity.py
+
+By default, the script saves a .png image file and opens an interactive window. 
+This interface is adjustable, scrollable, zoomable, and pannable, allowing you 
+to explore the data in detail. If you prefer to run the script silently and 
+only generate the .png file, simply comment out `plt.show()` at the end of the script.
+
+plt.show()
+![plt.show()](https://github.com/rolandihasz/Statistical-visualizations-of-the-electricity-consumption-of-EDF-Energy-s-Energy-Hub/blob/main/statistical_analysis_visuals.png)
+
+#plt.show()
+![#plt.show()](https://github.com/rolandihasz/Statistical-visualizations-of-the-electricity-consumption-of-EDF-Energy-s-Energy-Hub/blob/main/statistical_analysis_visuals_interactive_window.png)
