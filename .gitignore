@@ -19,7 +19,6 @@ venv.bak/
 *.swo
 
 # Output visuals
-*.png
 *.jpg
 *.jpeg
 *.svg
