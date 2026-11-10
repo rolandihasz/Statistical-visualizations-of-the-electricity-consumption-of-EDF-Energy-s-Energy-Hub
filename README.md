@@ -30,7 +30,5 @@ to explore the data in detail. If you prefer to run the script silently and
 only generate the .png file, simply comment out `plt.show()` at the end of the script.
 
 plt.show()
-![plt.show()](https://github.com/rolandihasz/Statistical-visualizations-of-the-electricity-consumption-of-EDF-Energy-s-Energy-Hub/blob/main/statistical_analysis_visuals.png)
-
-#plt.show()
-![#plt.show()](https://github.com/rolandihasz/Statistical-visualizations-of-the-electricity-consumption-of-EDF-Energy-s-Energy-Hub/blob/main/statistical_analysis_visuals_interactive_window.png)
+![plt.show()](https://github.com/rolandihasz/Statistical-visualizations-of-the-electricity-consumption-of-EDF-Energy-s-Energy-Hub/blob/main/statistical_analysis_visuals_interactive_window.png))
+ 
