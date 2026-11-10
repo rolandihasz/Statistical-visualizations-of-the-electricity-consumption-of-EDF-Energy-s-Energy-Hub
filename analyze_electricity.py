@@ -32,7 +32,7 @@ import seaborn as sns
 from scipy import stats
 
 # 1. Load Data
-file_path = '09_2026_Timestamp_Electricity_consumption.csv'
+file_path = 'Usage Analysis using the new Smart Meter Data Log.csv'
 try:
     df = pd.read_csv(file_path)
 except FileNotFoundError:
